@@ -1,0 +1,15 @@
+1. Loaded all 10 datasets successfully.
+
+2. Checked shape and datatypes.
+
+3. Missing values identified.
+
+4. Duplicate rows checked.
+
+5. Live NAV data fetched successfully.
+
+6. Fund house, category, sub-category and risk category explored.
+
+7. AMFI codes validated.
+
+8. No major anomalies found.
